@@ -104,7 +104,7 @@ class CloudflareHuntApp
   \______)_|\___/ \____|\_)\______)|_|   |_| |_|\___/  \____|
 
                CLOUDFLARE DNS History and IP Address Analyzer
-                   Author: Henrique-Melhado
+                   Author: Henrique-Me
 
                              |
                           *******
