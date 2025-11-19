@@ -1,10 +1,10 @@
- # Description: Fetches DNS and IP history for a domain using the SecurityTrails API.
-# Descrição: Busca histórico de DNS e IP de um domínio usando a API SecurityTrails.
+ ## Description: Fetches DNS and IP history for a domain using the SecurityTrails API.
+## Descrição: Busca histórico de DNS e IP de um domínio usando a API SecurityTrails.
 
 ``` Usage: ruby cloudflare_history.rb <domain> ```
 
-# To use this script, you need a SecurityTrails API key.
-# Para usar este script, você precisa de uma chave de API do SecurityTrails.
+- To use this script, you need a SecurityTrails API key.
+- Para usar este script, você precisa de uma chave de API do SecurityTrails.
 
 - 1. Go to https://securitytrails.com/corp/api and sign up for a free account.
 - 1. Acesse https://securitytrails.com/corp/api e crie uma conta gratuita.
