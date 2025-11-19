@@ -1,3 +1,18 @@
+______ _                 ______ _     _   _            _
+   / _____) |               / _____) |   | | | |          | |
+  / /     | | ___  _   _  _ | /     | |___| |_| | ___    _ | |
+ | |     | |/ _ \| | | |/ || |     |  ___)  _  |/ _ \  / || |
+ | \_____| | |_| | |_| ( (_| \_____| |   | | | | |_| |( (_| |
+  \______)_|\___/ \____|\_)\______)|_|   |_| |_|\___/  \____|
+
+               CLOUDFLARE DNS History and IP Address Analyzer
+                   Author: Henrique-Melhado
+
+                             |
+                          *******
+                           *****
+                            ***
+                             *
 - Fetches DNS and IP history for a domain using the SecurityTrails API.
 - Busca histórico de DNS e IP de um domínio usando a API SecurityTrails.
 ----
@@ -22,3 +37,8 @@
 ``` echo "export SECURITYTRAILS_API_KEY='your_api_key'" >> ~/.zshrc ```
 
 ``` echo "export SECURITYTRAILS_API_KEY='sua_chave_api'" >> ~/.zshrc ```
+
+----
+## Credits
+
+- Author: Henrique-Melhado
