@@ -19,4 +19,5 @@
 -   ``` export SECURITYTRAILS_API_KEY='sua_chave_api'```
 
 ``` echo "export SECURITYTRAILS_API_KEY='your_api_key'" >> ~/.zshrc ```
+
 ``` echo "export SECURITYTRAILS_API_KEY='sua_chave_api'" >> ~/.zshrc ```
