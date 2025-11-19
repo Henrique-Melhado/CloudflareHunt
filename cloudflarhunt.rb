@@ -4,15 +4,7 @@ require 'json'
 require 'net/http'
 require 'uri'
 
-# # Description: Fetches DNS and IP history for a domain using the SecurityTrails API.
-# Usage: ruby cloudflare_history.rb <domain>
-#
-# To use this script, you need a Security Trails API key.
-# 1. Go to https://securitytrails.com/corp/api and sign up for a free account.
-# 2. Get your API key from your account dashboard.
-# 3. Set the API key as an environment variable:
-#    export SECURITYTRAILS_API_KEY='your_api_key'
-# echo "export SECURITYTRAILS_API_KEY='your_api_key'" >> ~/.zshrc
+
 
 API_KEY = ENV['SECURITYTRAILS_API_KEY']
 API_URL = 'https://api.securitytrails.com/v1'
