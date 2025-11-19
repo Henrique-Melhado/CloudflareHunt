@@ -1,5 +1,5 @@
- ## Description: Fetches DNS and IP history for a domain using the SecurityTrails API.
-## Descrição: Busca histórico de DNS e IP de um domínio usando a API SecurityTrails.
+- Fetches DNS and IP history for a domain using the SecurityTrails API.
+- Busca histórico de DNS e IP de um domínio usando a API SecurityTrails.
 ----
 ``` Usage: ruby cloudflarhunt.rb <domain> ```
 
