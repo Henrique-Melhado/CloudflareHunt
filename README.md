@@ -31,9 +31,13 @@
 ``` echo "export SECURITYTRAILS_API_KEY='your_api_key'" >> ~/.zshrc ```
 
 ``` echo "export SECURITYTRAILS_API_KEY='sua_chave_api'" >> ~/.zshrc ```
+
 ----
+
 ``` Usage: ruby cloudflarhunt.rb <domain> ```
+
 ----
+
 ## Credits
 
 - Author: Henrique-Me
